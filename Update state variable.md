@@ -83,7 +83,7 @@ Hãy xem ví dụ dưới đây:
         });
     }}
 
-Chúng ta sẽ truyền một function argument cho setter để merger giá trị cũ và mới theo cú pháp
+Chúng ta sẽ truyền một function argument cho setter để merge giá trị cũ và mới theo cú pháp
 
     { ...prevState, message: val }
 
